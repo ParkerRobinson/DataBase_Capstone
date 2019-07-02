@@ -1,10 +1,3 @@
-# Group AHR CS4604 Project
-
-## Team Members
-* Brannon Angers - brannon7
-* Ben Hinkle - hinkleb
-* Parker Robinson - parkr96
-
 ## Entity Relationship
 The entities in this project are a *Car*, a *Customer*, *Phone Number*, *Mechanic*, *Certification*, *RepairDescription*, and *RepairRecord*. 
 
